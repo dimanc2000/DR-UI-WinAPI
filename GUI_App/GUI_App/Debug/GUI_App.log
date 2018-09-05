@@ -1,0 +1,10 @@
+﻿  GUI_App.cpp
+  Создание кода...
+c:\users\diman\desktop\gui_app\gui_app\gui_app.cpp(169): warning C4715: WndProc: значение возвращается не при всех путях выполнения
+  Компиляция...
+  Ui.cpp
+  GUI.cpp
+  Создание кода...
+  Пропуск... (изменения не обнаружены)
+  Header.cpp
+  GUI_App.vcxproj -> C:\Users\diman\Desktop\GUI_App\Debug\GUI_App.exe
